@@ -1,0 +1,253 @@
+
+REVISAO SIMULADO!
+
+1) atividade
+
+Início
+Leia A = 5
+Leia B = 3
+C = A + B
+Se C > 10 então
+ escreva "Maior"
+Senão
+ escreva "Menor"
+Fim
+Qual será a saída?
+A) Maior
+B) Menor
+C) 8
+D) Erro 
+
+Vamos seguir passo a passo:
+
+A = 5
+B = 3
+C = A + B → C = 5 + 3 = 8
+
+Agora a condição:
+
+Se C > 10 → 8 > 10? ❌ Não
+
+Então executa o senão:
+
+escreve "Menor"
+
+✅ Resposta correta: B) Menor
+
+2. Considere o código em C:
+int x = 2, y = 4;
+if (x * y > 10)
+ printf("A");
+else
+ printf("B");
+Saída:
+A) A
+B) B
+C) 8
+D) Erro 
+
+✅ Resposta correta: B) B
+
+3. Um fluxograma representa: 
+
+A) Apenas códigos em C
+B) Representação gráfica de algoritmos
+C) Erros de compilação
+D) Tipos de dados 
+
+✅ Resposta correta: B) Represejtação grafica de algoritmos
+
+*Duvida*
+
+precisa ser a letra i ou pode ser qualquer outra?
+
+Boa pergunta 👍
+
+Não, não precisa ser a letra i — você pode usar qualquer nome de variável.
+
+A letra i é só uma convenção (costume) para representar contador em loops.
+
+🔹 Exemplos equivalentes:
+int i;
+for(i = 1; i <= 3; i++)
+    printf("%d ", i);
+int x;
+for(x = 1; x <= 3; x++)
+    printf("%d ", x);
+int contador;
+for(contador = 1; contador <= 3; contador++)
+    printf("%d ", contador);
+
+Todos fazem exatamente a mesma coisa ✅
+
+💡 Dica:
+i, j, k → muito usados em loops simples
+nomes como contador → mais descritivos (bom para entender melhor o código)
+
+✔️ Resumindo:
+Você pode usar qualquer nome, desde que seja uma variável válida 👍
+
+
+5.No pensamento computacional, a decomposição significa:
+A) Juntar problemas
+B) Dividir problemas em partes menores
+C) Executar código
+D) Compilar programa 
+
+✅ Resposta correta: B) Dividir problemas em partes menores
+
+
+6.Analise:
+
+ int a = 10;
+ if(a % 2 == 0)
+ printf("Par");
+ else
+ printf("Impar");
+
+Saída:
+
+A) Impar
+B) Par
+C) 10
+D) Erro 
+
+✅ Resposta correta: B) Par
+
+*DUVIDA*
+
+o for e oq na linguagem da programacao mesmo?
+
+O for é uma estrutura de repetição (também chamada de loop) nas linguagens de programação.
+
+Ele serve para executar um bloco de código várias vezes, geralmente quando você já sabe quantas repetições quer fazer.
+
+💡 Exemplo simples (em estilo genérico):
+
+for (início; condição; incremento) {
+    // código que será repetido
+}
+
+👉 Exemplo prático:
+
+for (i = 1; i <= 5; i++) {
+    escreva(i)
+}
+
+Esse código vai imprimir:
+1 2 3 4 5
+
+✔️ Resumindo:
+for = repetir algo várias vezes com controle de início, condição e incremento
+
+7.Qual estrutura representa decisão? 
+A) for
+B) while
+C) if
+D) printf 
+
+✅ Resposta correta: c) if
+
+8.Fluxogramas utilizam losango para:
+
+A) Início
+B) Processamento
+C) Decisão
+D) Entrada 
+
+✅ Resposta correta: c) Decisão
+
+Nos fluxogramas, cada símbolo tem um significado específico.
+
+O losango é usado para representar decisões ou condições.
+
+🔹 Exemplo:
+Pergunta: “C > 10?”
+Se sim, segue por um caminho
+Se não, segue por outro caminho
+✅ Resumo:
+
+Losango = tomada de decisão / condição (sim/não)
+
+9.Analise:
+
+int i = 0;
+while(i < 3){
+ printf("%d ", i);
+ i++;
+}
+
+Saída:
+
+A) 0 1 2
+B) 1 2 3
+C) 0 1 2 3
+D) 3 2 1 
+
+✅ Resposta correta: A) 0 1 2
+
+Explicação:
+
+Vamos analisar esse código linha por linha 👇
+
+int i = 0;
+while(i < 3){
+    printf("%d ", i);
+    i++;
+}
+🔹 1. int i = 0;
+Declara uma variável chamada i do tipo inteiro (int)
+Inicializa i com o valor 0
+Essa variável será usada como contador do loop
+🔹 2. while(i < 3)
+While significa “enquanto”
+A condição é i < 3 → o bloco dentro do while vai se repetir enquanto i for menor que 3
+🔹 3. Bloco do while:
+printf("%d ", i);
+i++;
+printf("%d ", i); → imprime o valor atual de i seguido de um espaço
+i++; → soma 1 a i a cada volta do loop
+🔁 Passo a passo do loop:
+i = 0 → imprime 0 → i = 1
+i = 1 → imprime 1 → i = 2
+i = 2 → imprime 2 → i = 3
+i = 3 → a condição i < 3 é falsa → o loop termina
+✅ Saída final:
+0 1 2
+
+💡 Resumo:
+
+while repete enquanto a condição for verdadeira
+i++ é importante para evitar loop infinito
+Esse loop conta de 0 até 2, imprimindo os números.
+
+10.Pensamento computacional envolve:
+
+A) Apenas programação
+B) Resolver problemas de forma lógica e estruturada
+C) Apenas matemática
+D) Apenas hardware 
+
+✅ Resposta correta: B) Resolver problemas de forma lógica e estruturada
+
+ PARTE 2 – Tipos de Dados, Expressões e Operadores em C (10 questões)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
