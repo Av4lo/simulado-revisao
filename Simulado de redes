@@ -1,0 +1,187 @@
+Atividades !
+
+1. Uma rede de computadores pode ser definida como:
+
+A) Um conjunto de softwares instalados em um computador
+B) Um conjunto de computadores interligados que compartilham recursos
+C) Um sistema operacional distribuído
+D) Um banco de dados online 
+
+-> B) Um conjunto de computadores interligados que compartilham recursos
+
+2. A Internet é melhor definida como:
+
+A) Uma rede local privada
+B) Um conjunto de redes interligadas globalmente
+C) Um software de navegação
+D) Um servidor web 
+
+-> B) Um conjunto de redes interligadas globalmente
+
+3. O principal objetivo da arquitetura em camadas é:
+
+A) Aumentar o custo da rede
+B) Facilitar o desenvolvimento e padronização
+C) Reduzir a velocidade da rede
+D) Eliminar protocolos 
+
+-> B) Facilitar o desenvolvimento e padronização
+
+4. No modelo em camadas, cada camada:
+
+A) Atua de forma independente sem comunicação
+B) Depende apenas do hardware
+C) Oferece serviços à camada superior
+D) Substitui todas as outras 
+
+-> C) Oferece serviços à camada superior
+
+5. O modelo OSI possui quantas camadas?
+
+A) 4
+B) 5
+C) 6
+D) 7 
+
+-> D) 7 
+
+6. O modelo TCP/IP é composto por quantas camadas?
+
+A) 2
+B) 3
+C) 4
+D) 7 
+
+-> C) 4
+
+7. Qual alternativa apresenta corretamente a ordem das camadas do
+modelo OSI (de baixo para cima)?
+
+A) Aplicação, Transporte, Rede, Física
+B) Física, Enlace, Rede, Transporte, Sessão, Apresentação, Aplicação
+C) Rede, Física, Aplicação
+D) Transporte, Aplicação, Física 
+
+-> B) Física, Enlace, Rede, Transporte, Sessão, Apresentação, Aplicação
+
+8. O modelo TCP/IP surgiu:
+
+A) Antes do modelo OSI
+B) Após o modelo OSI, como substituição direta
+C) Sem relação com a Internet
+D) Apenas para redes locais 
+
+-> B) Após o modelo OSI, como substituição direta
+
+9. O protocolo HTTP pertence a qual camada?
+
+A) Rede
+B) Transporte
+C) Aplicação
+D) Física 
+
+-> C) Aplicação
+
+10. Sobre o histórico da Internet, é correto afirmar: 
+A) Foi criada para jogos online
+B) Surgiu como um projeto militar (ARPANET)
+C) Foi criada por empresas privadas
+D) Surgiu após 2010 
+
+-> B) Surgiu como um projeto militar (ARPANET)
+
+🔹 PARTE 2 – Camadas do Modelo OSI e Funções (11
+a 20) 
+
+11. A camada física é responsável por:
+
+A) Criptografia
+B) Transmissão de bits
+C) Controle de sessões
+D) Endereçamento lógico 
+
+-> B) Transmissão de bits
+
+12. A camada de enlace de dados tem como função principal:
+
+A) Controle de erros e acesso ao meio
+B) Roteamento
+C) Criptografia
+D) Interface com o usuário 
+
+-> A) Controle de erros e acesso ao meio
+
+13. Qual camada é responsável pelo roteamento?
+
+A) Física
+B) Enlace
+C) Rede
+D) Aplicação 
+
+-> C) Rede
+
+14. O protocolo IP atua em qual camada?
+
+A) Aplicação
+B) Transporte
+C) Rede
+D) Física 
+
+-> C) Rede
+
+15. A camada de transporte é responsável por: 
+
+A) Transmitir bits
+B) Garantir entrega confiável dos dados
+C) Exibir páginas web
+D) Definir endereços MAC
+
+-> B) Garantir entrega confiável dos dados
+
+16. O protocolo TCP é conhecido por:
+
+A) Ser não confiável
+B) Garantir entrega confiável
+C) Ser usado apenas em hardware
+D) Não usar portas 
+
+-> B) Garantir entrega confiável
+
+17. A camada de sessão é responsável por:
+
+A) Gerenciar conexões
+B) Transmitir sinais elétricos
+C) Controlar IP
+D) Definir cabos 
+
+-> A) Gerenciar conexões
+
+18. A camada de apresentação tem como função:
+
+A) Compressão e criptografia de dados
+B) Roteamento
+C) Controle de fluxo
+D) Transmissão física 
+
+-> A) Compressão e criptografia de dados
+
+19. A camada de aplicação é responsável por:
+
+A) Comunicação com o usuário final
+B) Transmissão de bits
+C) Controle elétrico
+D) Endereçamento físico
+
+-> A) Comunicação com o usuário final
+
+20. Qual alternativa associa corretamente camada e função?
+
+A) Rede – Transmissão de bits
+B) Transporte – Controle de erros fim a fim
+C) Física – Roteamento
+D) Aplicação – Controle de cabos 
+
+B) Transporte – Controle de erros fim a fim
+
+
+
